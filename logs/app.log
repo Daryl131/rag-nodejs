@@ -1,0 +1,181 @@
+[2025-09-07T19:36:52.540Z] INFO: Server running on port 3000
+[2025-09-07T19:38:22.449Z] INFO: Server running on port 3000
+[2025-09-07T19:38:25.258Z] INFO: POST /docs/query 200 557 - 27.992 ms
+[2025-09-07T19:39:12.731Z] INFO: Server running on port 3000
+[2025-09-07T19:39:16.069Z] INFO: [0mPOST /docs/query [32m200[0m 22.217 ms - 557[0m
+[2025-09-07T19:42:34.276Z] INFO: Server running on port 3000
+[2025-09-07T19:42:38.807Z] INFO: Server running on port 3000
+[2025-09-07T19:42:44.245Z] INFO: Server running on port 3000
+[2025-09-07T19:43:19.087Z] INFO: Loading embedding model...
+[2025-09-07T19:43:19.373Z] INFO: Model ready!
+[2025-09-07T19:43:19.420Z] INFO: Chroma collection ready
+[2025-09-07T19:43:19.422Z] INFO: Server running on port 3000
+[2025-09-07T19:53:38.169Z] INFO: Loading embedding model...
+[2025-09-07T19:53:38.600Z] INFO: Model ready!
+[2025-09-07T19:53:38.674Z] INFO: Chroma collection ready
+[2025-09-07T19:53:38.676Z] INFO: Server running on port 3000
+[2025-09-07T19:54:33.191Z] INFO: Loading embedding model...
+[2025-09-07T19:54:33.481Z] INFO: Model ready!
+[2025-09-07T19:54:33.537Z] INFO: Chroma collection ready
+[2025-09-07T19:54:33.539Z] INFO: Server running on port 3000
+[2025-09-07T19:58:26.999Z] INFO: Loading embedding model...
+[2025-09-07T19:58:27.429Z] INFO: Model ready!
+[2025-09-07T19:58:27.505Z] INFO: Chroma collection ready
+[2025-09-07T19:58:27.507Z] INFO: Server running on port 3000
+[2025-09-07T19:58:44.590Z] INFO: Loading embedding model...
+[2025-09-07T19:58:44.883Z] INFO: Model ready!
+[2025-09-07T19:58:44.935Z] INFO: Chroma collection ready
+[2025-09-07T19:58:44.937Z] INFO: Server running on port 3000
+[2025-09-07T19:59:09.759Z] INFO: Loading embedding model...
+[2025-09-07T19:59:10.171Z] INFO: Model ready!
+[2025-09-07T19:59:10.247Z] INFO: Chroma collection ready
+[2025-09-07T19:59:10.248Z] INFO: Server running on port 3000
+[2025-09-07T19:59:16.746Z] INFO: Loading embedding model...
+[2025-09-07T19:59:17.033Z] INFO: Model ready!
+[2025-09-07T19:59:17.079Z] INFO: Chroma collection ready
+[2025-09-07T19:59:17.080Z] INFO: Server running on port 3000
+[2025-09-07T19:59:38.014Z] INFO: Loading embedding model...
+[2025-09-07T19:59:38.319Z] INFO: Model ready!
+[2025-09-07T19:59:38.457Z] INFO: Chroma collection ready
+[2025-09-07T19:59:38.458Z] INFO: Server running on port 3000
+[2025-09-07T20:00:22.032Z] INFO: Loading embedding model...
+[2025-09-07T20:00:22.331Z] INFO: Model ready!
+[2025-09-07T20:00:22.378Z] INFO: Chroma collection ready
+[2025-09-07T20:00:22.379Z] INFO: Server running on port 3000
+[2025-09-07T20:06:49.850Z] INFO: Loading embedding model...
+[2025-09-07T20:06:50.332Z] INFO: Model ready!
+[2025-09-07T20:06:50.409Z] INFO: Chroma collection ready
+[2025-09-07T20:06:50.411Z] INFO: Server running on port 3000
+[2025-09-07T20:06:53.715Z] INFO: Loading embedding model...
+[2025-09-07T20:06:53.996Z] INFO: Model ready!
+[2025-09-07T20:06:54.042Z] INFO: Chroma collection ready
+[2025-09-07T20:06:54.043Z] INFO: Server running on port 3000
+[2025-09-07T20:06:56.056Z] INFO: Loading embedding model...
+[2025-09-07T20:06:56.372Z] INFO: Model ready!
+[2025-09-07T20:06:56.419Z] INFO: Chroma collection ready
+[2025-09-07T20:06:56.420Z] INFO: Server running on port 3000
+[2025-09-07T20:07:23.121Z] INFO: Embedding length:
+[2025-09-07T20:07:23.194Z] INFO: [0mPOST /docs/query [32m200[0m 88.575 ms - 557[0m
+[2025-09-07T20:07:31.600Z] INFO: Embedding length:
+[2025-09-07T20:07:31.622Z] INFO: [0mPOST /docs/query [32m200[0m 31.700 ms - 555[0m
+[2025-09-07T20:11:19.592Z] INFO: Loading embedding model...
+[2025-09-07T20:11:20.082Z] INFO: Model ready!
+[2025-09-07T20:11:20.157Z] INFO: Chroma collection ready
+[2025-09-07T20:11:20.159Z] INFO: Server running on port 3000
+[2025-09-07T20:11:32.147Z] INFO: Loading embedding model...
+[2025-09-07T20:11:32.450Z] INFO: Model ready!
+[2025-09-07T20:11:32.497Z] INFO: Chroma collection ready
+[2025-09-07T20:11:32.499Z] INFO: Server running on port 3000
+[2025-09-07T20:11:36.651Z] INFO: Embedding length:
+[2025-09-07T20:11:36.684Z] INFO: [0mPOST /docs/query [32m200[0m 43.004 ms - 555[0m
+[2025-09-07T20:12:19.148Z] INFO: [0mPOST /docs/add-docs [33m400[0m 0.554 ms - 55[0m
+[2025-09-07T20:13:31.235Z] INFO: Loading embedding model...
+[2025-09-07T20:13:31.626Z] INFO: Model ready!
+[2025-09-07T20:13:31.696Z] INFO: Chroma collection ready
+[2025-09-07T20:13:31.697Z] INFO: Server running on port 3000
+[2025-09-07T20:13:33.990Z] INFO: Embedding length:
+[2025-09-07T20:13:33.995Z] INFO: Embedding length:
+[2025-09-07T20:13:33.998Z] INFO: Embedding length:
+[2025-09-07T20:13:34.006Z] INFO: Embedding length:
+[2025-09-07T20:13:34.015Z] INFO: Embedding length:
+[2025-09-07T20:13:34.042Z] INFO: [0mPOST /docs/add-docs [31m500[0m 62.094 ms - 91[0m
+[2025-09-07T20:16:53.821Z] INFO: Loading embedding model...
+[2025-09-07T20:16:54.225Z] INFO: Model ready!
+[2025-09-07T20:16:54.296Z] INFO: Chroma collection ready
+[2025-09-07T20:16:54.298Z] INFO: Server running on port 3000
+[2025-09-07T20:16:59.842Z] INFO: Loading embedding model...
+[2025-09-07T20:17:00.134Z] INFO: Model ready!
+[2025-09-07T20:17:00.186Z] INFO: Chroma collection ready
+[2025-09-07T20:17:00.188Z] INFO: Server running on port 3000
+[2025-09-07T20:17:03.641Z] INFO: Embedding length:
+[2025-09-07T20:17:03.650Z] INFO: Embedding length:
+[2025-09-07T20:17:03.657Z] INFO: Embedding length:
+[2025-09-07T20:17:03.667Z] INFO: Embedding length:
+[2025-09-07T20:17:03.674Z] INFO: Embedding length:
+[2025-09-07T20:17:03.692Z] ERROR: Unable to connect to the chromadb server (status: 422). Please try again later.
+[2025-09-07T20:17:03.695Z] INFO: [0mPOST /docs/add-docs [31m500[0m 71.576 ms - 91[0m
+[2025-09-07T20:18:16.813Z] INFO: Loading embedding model...
+[2025-09-07T20:18:17.215Z] INFO: Model ready!
+[2025-09-07T20:18:17.286Z] INFO: Chroma collection ready
+[2025-09-07T20:18:17.288Z] INFO: Server running on port 3000
+[2025-09-07T20:18:20.797Z] INFO: Embedding length:
+[2025-09-07T20:18:20.806Z] INFO: Embedding length:
+[2025-09-07T20:18:20.810Z] INFO: Embedding length:
+[2025-09-07T20:18:20.818Z] INFO: Embedding length:
+[2025-09-07T20:18:20.826Z] INFO: Embedding length:
+[2025-09-07T20:18:20.846Z] ERROR: Unable to connect to the chromadb server (status: 422). Please try again later.
+[2025-09-07T20:18:20.850Z] INFO: [0mPOST /docs/add-docs [31m500[0m 78.961 ms - 91[0m
+[2025-09-07T20:19:04.404Z] INFO: Loading embedding model...
+[2025-09-07T20:19:04.695Z] INFO: Model ready!
+[2025-09-07T20:19:04.741Z] INFO: Chroma collection ready
+[2025-09-07T20:19:04.742Z] INFO: Server running on port 3000
+[2025-09-07T20:19:07.852Z] INFO: Embedding length:
+[2025-09-07T20:19:07.856Z] INFO: Embedding length:
+[2025-09-07T20:19:07.860Z] INFO: Embedding length:
+[2025-09-07T20:19:07.865Z] INFO: Embedding length:
+[2025-09-07T20:19:07.873Z] INFO: Embedding length:
+[2025-09-07T20:19:07.888Z] ERROR: Unable to connect to the chromadb server (status: 422). Please try again later.
+[2025-09-07T20:19:07.892Z] INFO: [0mPOST /docs/add-docs [31m500[0m 56.310 ms - 91[0m
+[2025-09-07T20:19:55.104Z] INFO: Loading embedding model...
+[2025-09-07T20:19:55.503Z] INFO: Model ready!
+[2025-09-07T20:19:55.571Z] INFO: Chroma collection ready
+[2025-09-07T20:19:55.573Z] INFO: Server running on port 3000
+[2025-09-07T20:19:57.303Z] INFO: Embedding length:
+[2025-09-07T20:19:57.313Z] INFO: Embedding length:
+[2025-09-07T20:19:57.327Z] INFO: Embedding length:
+[2025-09-07T20:19:57.335Z] INFO: Embedding length:
+[2025-09-07T20:19:57.344Z] INFO: Embedding length:
+[2025-09-07T20:19:57.364Z] ERROR: Unable to connect to the chromadb server (status: 422). Please try again later.
+[2025-09-07T20:19:57.367Z] INFO: [0mPOST /docs/add-docs [31m500[0m 83.800 ms - 91[0m
+[2025-09-07T20:21:48.332Z] INFO: Loading embedding model...
+[2025-09-07T20:21:48.737Z] INFO: Model ready!
+[2025-09-07T20:21:48.807Z] INFO: Chroma collection ready
+[2025-09-07T20:21:48.809Z] INFO: Server running on port 3000
+[2025-09-07T20:21:50.768Z] INFO: Loading embedding model...
+[2025-09-07T20:21:51.069Z] INFO: Model ready!
+[2025-09-07T20:21:51.116Z] INFO: Chroma collection ready
+[2025-09-07T20:21:51.117Z] INFO: Server running on port 3000
+[2025-09-07T20:21:54.182Z] INFO: Embedding length:
+[2025-09-07T20:21:54.190Z] INFO: Embedding length:
+[2025-09-07T20:21:54.198Z] INFO: Embedding length:
+[2025-09-07T20:21:54.206Z] INFO: Embedding length:
+[2025-09-07T20:21:54.215Z] INFO: Embedding length:
+[2025-09-07T20:21:54.234Z] ERROR: Unable to connect to the chromadb server (status: 422). Please try again later.
+[2025-09-07T20:21:54.238Z] INFO: [0mPOST /docs/add-docs [31m500[0m 67.203 ms - 91[0m
+[2025-09-07T20:22:19.772Z] INFO: Loading embedding model...
+[2025-09-07T20:22:20.066Z] INFO: Model ready!
+[2025-09-07T20:22:20.112Z] INFO: Chroma collection ready
+[2025-09-07T20:22:20.114Z] INFO: Server running on port 3000
+[2025-09-07T20:22:23.902Z] INFO: Embedding length:
+[2025-09-07T20:22:23.911Z] INFO: Embedding length:
+[2025-09-07T20:22:23.924Z] INFO: Embedding length:
+[2025-09-07T20:22:23.932Z] INFO: Embedding length:
+[2025-09-07T20:22:23.940Z] INFO: Embedding length:
+[2025-09-07T20:22:23.963Z] ERROR: ChromaConnectionError: Unable to connect to the chromadb server (status: 422). Please try again later.
+    at chromaFetch (file:///home/pedro/rag-nodejs/node_modules/chromadb/dist/chromadb.mjs:1751:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async o (file:///home/pedro/rag-nodejs/node_modules/chromadb/dist/chromadb.mjs:334:26)
+    at async _CollectionImpl.add (file:///home/pedro/rag-nodejs/node_modules/chromadb/dist/chromadb.mjs:1454:5)
+    at async addCollection (file:///home/pedro/rag-nodejs/src/services/chromaCollection.js:15:12)
+    at async file:///home/pedro/rag-nodejs/src/routes/docs.js:55:9
+[2025-09-07T20:22:23.966Z] INFO: [0mPOST /docs/add-docs [31m500[0m 76.611 ms - 91[0m
+[2025-09-07T20:22:56.786Z] INFO: Loading embedding model...
+[2025-09-07T20:22:57.070Z] INFO: Model ready!
+[2025-09-07T20:22:57.117Z] INFO: Chroma collection ready
+[2025-09-07T20:22:57.119Z] INFO: Server running on port 3000
+[2025-09-07T20:37:23.870Z] INFO: Loading embedding model...
+[2025-09-07T20:37:24.281Z] INFO: Model ready!
+[2025-09-07T20:37:24.351Z] INFO: Chroma collection ready
+[2025-09-07T20:37:24.353Z] INFO: Server running on port 3000
+[2025-09-07T20:37:46.230Z] INFO: Root endpoint hit
+[2025-09-07T20:37:46.234Z] INFO: [0mGET / [36m304[0m 3.340 ms - -[0m
+[2025-09-07T20:37:48.036Z] INFO: Root endpoint hit
+[2025-09-07T20:37:48.038Z] INFO: [0mGET / [36m304[0m 0.962 ms - -[0m
+[2025-09-07T20:41:19.092Z] INFO: Loading embedding model...
+[2025-09-07T20:41:19.504Z] INFO: Model ready!
+[2025-09-07T20:41:19.574Z] INFO: Chroma collection ready
+[2025-09-07T20:41:19.576Z] INFO: Server running on port 3000
+[2025-09-07T20:41:40.877Z] INFO: Loading embedding model...
+[2025-09-07T20:41:45.454Z] INFO: Model ready!
+[2025-09-07T20:41:45.496Z] INFO: Chroma collection ready
+[2025-09-07T20:41:45.497Z] INFO: Server running on port 3000
